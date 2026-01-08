@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include<math.h>
 
  char* searlizer(input input_data ,int buff_length){
     meta m=input_data.m;
