@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "json.h"
-
 int main() {
 meta m;//data type for meta data
 data d;
